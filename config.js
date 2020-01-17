@@ -32,7 +32,6 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        balloons_flying: "好像少点东西",
         story: "A MESSAGE FOR YOU",
     }
 };
